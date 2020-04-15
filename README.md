@@ -7,4 +7,4 @@ examine such trends.
 
 In addition, and for purposes of this project, all temperatures are recorded in Celsius (ºC).
 
-Details of the project are included in the files uploaded to this directory.  All Python code is included in the PDF.
+Details of the project are included in the files uploaded to this directory.  All Python and SQL code, as well as CSV data files, are included in the PDF report.
